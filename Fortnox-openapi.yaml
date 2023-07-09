@@ -56,7 +56,7 @@ info:
 
 
     Search the documentation using the search field in the top left corner.
-    title: FortnoxClient
+title: FortnoxClient
 servers:
   - url: /
 tags:
