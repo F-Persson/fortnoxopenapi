@@ -1,5 +1,7 @@
 openapi: 3.0.1
 info:
+  title: Fortnox
+  version: 1.0
   description: >-
     # Documentation 
 
